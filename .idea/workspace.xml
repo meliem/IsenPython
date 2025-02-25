@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d926f4e8-855a-486b-8f62-0ffc2464280c" name="Changes" comment="" />
+    <list default="true" id="d926f4e8-855a-486b-8f62-0ffc2464280c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop"
   }
