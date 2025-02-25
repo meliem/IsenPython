@@ -16,3 +16,4 @@ def get_weighted_average(pondered_list):
 
 
 
+
