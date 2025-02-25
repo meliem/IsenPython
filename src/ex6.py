@@ -5,8 +5,13 @@ def get_average(liste):
     return j/len(liste)
 
 def get_weighted_average(pondered_list):
+    j = 0
+    k = 0
+    for i in pondered_list:
+        j += i[0] * i[1]
+        k += i[1]
 
-    for i in pondered_list[0]:
+    return j / len(pondered_list) / k
 
 
 
