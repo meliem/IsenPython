@@ -1,19 +1,8 @@
-def get_average(liste):
-    j = 0
-    for i in liste:
-        j += i
-    return j/len(liste)
-
-def get_weighted_average(pondered_list):
-    j = 0
-    k = 0
-    for i in pondered_list:
-        j += i[0] * i[1]
-        k += i[1]
-
-    return j / len(pondered_list) / k
+def get_average(list_marks):
+    return sum(list_marks) / len(list_marks) if list_marks else 0
 
 
-
-
-
+def get_weighted_average(weighted_marks):
+    total_weighted_sum = sum(note * coef for note, coef in weighted_marks)
+    total_coefficients = sum(coef for _, coef in weighted_marks)
+    return total_weighted_sum / total_coefficients if total_coefficients else 0
