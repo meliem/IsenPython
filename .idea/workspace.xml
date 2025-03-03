@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d926f4e8-855a-486b-8f62-0ffc2464280c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex15.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,9 @@
     "Python.ex11.executor": "Run",
     "Python.ex12.executor": "Run",
     "Python.ex13.executor": "Run",
+    "Python.ex14.executor": "Run",
+    "Python.ex15.executor": "Run",
+    "Python.ex16.executor": "Run",
     "Python.ex2.executor": "Run",
     "Python.ex5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
