@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d926f4e8-855a-486b-8f62-0ffc2464280c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/truc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/truc.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +43,7 @@
     "Python.ex14.executor": "Run",
     "Python.ex15.executor": "Run",
     "Python.ex16.executor": "Run",
+    "Python.ex17.executor": "Run",
     "Python.ex2.executor": "Run",
     "Python.ex5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

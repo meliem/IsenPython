@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<joueurs>
+    <joueur equipe="ISEN !!!">
+        <nom>Thomas</nom>
+        <nom>Sophie</nom>
+        <nom>Stéphane</nom>
+        <nom>Julien</nom>
+        <nom>Pascal</nom>
+    </joueur>
+</joueurs>
